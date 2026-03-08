@@ -3,6 +3,7 @@
 Escola Superior de Tecnologia — UEA  
 Profa. Dra. Elloá B. Guedes
 
+Alunos: Izabella de Lima Catrinck e Lucas Maciel Gomes 
 ---
 
 ## Sobre o projeto
