@@ -116,3 +116,5 @@ jupyter notebook Topicos1-2026_1-Tarefa1.ipynb
 ├── pyproject.toml                   # Configuração do projeto (uv)
 └── README.md
 ```
+
+**README feito por IA**
